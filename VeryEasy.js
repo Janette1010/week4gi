@@ -5,6 +5,4 @@ function min(num1, num2) {
         return num2;
 }
 
-console.log(min(0, 10));
-console.log(min(10, 0));
-console.log(min(0, -10));
+console.log(min(20, 10));
